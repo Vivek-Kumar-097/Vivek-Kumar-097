@@ -1,8 +1,8 @@
 ### Hi there, I am Vivek 👋
 
-Frontend developer with skills in building responsive websites and web applications. Ambitious and dedicated team player with a love for learning the latest technologies and new concepts in web development.
+Frontend developer with skills in building websites and web applications. Ambitious and dedicated team player with a love for learning the latest technologies and new concepts in web development.
 
-I use these Skills & Technologies : HTML5, Cascading Style Sheets (CSS), JavaScript, ES6 JavaScript, AJAX, React Js, Version Control/Git, GitHub, Rest APIs, Browser Developer Tools, Command Line
+I use these Skills & Technologies : HTML5, Cascading Style Sheets (CSS), JavaScript, ES6 JavaScript, React Js, Version Control/Git, GitHub, Rest APIs, Browser Developer Tools, Command Line
 
 Interested in Web development | Font-End Development | Front-End Design | Responsive Web Design | Web Applications | User Interface Design | User Experience | Web Design | Web Performance | Computer Science | Problem-Solving | Communication Skills | Software Development 
 
