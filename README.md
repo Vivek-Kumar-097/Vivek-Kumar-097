@@ -10,6 +10,7 @@ LinkedIn : linkedin.com/in/vivekkumar097/
 
 Contact Me:
 E-mail: kvivek097@gmail.com
+
 Phone: +918800402676
 
 <!--
